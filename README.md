@@ -1,2 +1,2 @@
-# Cool_game_dev_stuff
+# Cool game dev stuff
 Game dev project
